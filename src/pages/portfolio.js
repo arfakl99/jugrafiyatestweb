@@ -40,7 +40,7 @@ function Portfolio() {
                 <title>jugrafiya | portfolio</title>
                 <meta charSet="utf-8"/>
 
-                <meta name="description" content="Jugrafiya offers top-tier GIS Development and Analysis services to businesses. We specialize in Web, Mobile and Desktop GIS Development and leverage technologies such as Leaflet, Mapbox and ArcGIS Development Suite"/> {/* SEO meta tags */}
+                <meta name="description" content="Jugrafiya offers top-tier Web Gis GIS Development and Analysis services to businesses. We specialize in Web, Mobile and Desktop web GIS Development and leverage technologies such as Leaflet, Mapbox and ArcGIS Development Suite"/> {/* SEO meta tags */}
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                 <meta name="robots" content="index, follow"/>
                 <meta name="author" content="jugrafiya-GIS"/>

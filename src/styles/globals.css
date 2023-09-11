@@ -10,6 +10,29 @@ body {
   /* background-color: #faf9f6; */
 }
 
+.sec1 {
+  /* background-image: url('../../public/assets/images/maphome.jpg'); */
+  /* background-image: url('../../public/assets/images//homeimg2.jpg'); */
+  background-image: url('../../public/assets/images/homeimg4.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+  margin-left: 10px;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.imghome {
+  animation: fadeIn 1s ease forwards; /* Use a 1-second fade-in animation */
+}
+
+
 .mapboxgl-ctrl-logo {
   display: none !important;
 }
